@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Erick!
+# 👋 Olá, eu sou Eriq!
 
 **`Desenvolvedor Full Stack`**
 
@@ -84,7 +84,7 @@ Apaixonado por criar soluções digitais inovadoras e experiências web excepcio
 ## 🌐 Vamos nos Conectar!
 
 <p align="left">
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="eriqchz00@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/seulinkedin">
